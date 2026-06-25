@@ -100,3 +100,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/yamisskey-dev
+    - icon: fontawesome/solid/flag
+      link: https://ctftime.org/team/416983
+      name: CTFtime
