@@ -1,0 +1,5 @@
+nav:
+  - index.md
+  - ...        # 年/CTF フォルダはここに自動で並ぶ（新しい年を足すだけ）
+  - contributing.md
+  - tags.md

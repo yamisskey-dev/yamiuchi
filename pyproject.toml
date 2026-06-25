@@ -1,0 +1,12 @@
+[project]
+name = "yamiuchi-writeups"
+version = "0.1.0"
+description = "CTF writeups by team yamiuchi (yamisskey-dev)"
+requires-python = ">=3.11"
+dependencies = [
+    "mkdocs-material>=9.5",
+    "mkdocs-awesome-pages-plugin>=2.9",
+]
+
+[tool.uv]
+package = false

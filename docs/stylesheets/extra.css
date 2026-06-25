@@ -1,0 +1,49 @@
+/* トップページのヒーロー（1スクリーンに収める） */
+.hero {
+  text-align: center;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding-top: 1.2rem;
+}
+
+.hero .hero-logo {
+  width: 132px;
+  height: auto;
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.25));
+}
+
+.hero h1 {
+  margin: 0.4rem 0 0.3rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.hero p {
+  color: var(--md-default-fg-color--light);
+  line-height: 1.7;
+}
+
+/* ボタンを横並び・中央寄せに */
+.hero .md-button {
+  margin: 0.3rem 0.25rem;
+}
+
+/* カテゴリのチップ列 */
+.hero .cats {
+  margin: 1.6rem auto 1.4rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.85rem;
+  line-height: 2;
+}
+
+.hero .cats .twemoji {
+  vertical-align: -0.15em;
+}
+
+/* トップではタイトル直書きなので、自動生成の余白を詰める */
+.md-content__inner > .hero {
+  margin-top: 0;
+}
+.md-content__inner > .hero:first-child::before {
+  display: none;
+}
