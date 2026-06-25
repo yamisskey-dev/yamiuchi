@@ -7,7 +7,11 @@ hide:
 
 <div class="hero" markdown>
 
+<div class="hero-art" markdown>
 ![yamiuchi](assets/yamiuchi.png){ .hero-logo }
+</div>
+
+<div class="hero-body" markdown>
 
 # yamiuchi
 
@@ -25,4 +29,5 @@ hide:
 [:material-folder-open: 最近の writeup](2026/SECCON/index.md){ .md-button }
 [:material-tag: タグから探す](tags.md){ .md-button }
 
+</div>
 </div>
