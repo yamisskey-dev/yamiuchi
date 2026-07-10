@@ -6,7 +6,7 @@
 
 [yamisskey-dev](https://github.com/yamisskey-dev) のメンバーを中心とした CTF チーム **yamiuchi** の writeup サイトです。
 
-🔗 https://yamiuchi.pages.dev/ （Cloudflare Pages）
+🔗 https://team.yami.ski/ （Cloudflare Pages: yamiuchi.pages.dev）
 
 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) で構築。
 

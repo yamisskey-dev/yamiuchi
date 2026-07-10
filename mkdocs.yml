@@ -1,6 +1,6 @@
 site_name: yamiuchi
 site_description: CTF writeups by team yamiuchi
-site_url: https://yamiuchi.pages.dev/  # Cloudflare Pages のドメインに合わせて変更
+site_url: https://team.yami.ski/  # カスタムドメイン（Cloudflare Pages: yamiuchi.pages.dev）
 repo_url: https://github.com/yamisskey-dev/yamiuchi
 repo_name: yamisskey-dev/yamiuchi
 edit_uri: edit/main/docs/
